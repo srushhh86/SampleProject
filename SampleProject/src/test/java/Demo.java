@@ -3,6 +3,6 @@ public class Demo {
 
 	private void syso() {
 		// TODO Auto-generated method stub
-System.out.println("Hii");
+System.out.println("Hiiiii");
 	}
 }
